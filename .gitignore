@@ -1,0 +1,5 @@
+target/
+
+#Intellij related
+.idea
+*.iml
